@@ -159,7 +159,7 @@ Simulando Escenario A: Línea base (sin intervenciones)
 Simulando Escenario B: Lotería
 Simulando Escenario C: Mandato
 
-![Comparación de Infecciones bajo 3 políticas de intervención](image.png)
+![Comparación de Infecciones bajo 3 políticas de intervención](assets/image.png)
 
 ```
 ============================================================
