@@ -70,7 +70,7 @@ aproximadamente el 50%.
 ### **Considere lo siguiente, analice y responda:**
 #### Escenario 1
 
-Un país con una cobertura de vacunación contra la COVID-19 del **60%** observa un aumento del $R_t$ de **{0,8}** a **{1,5}** tras la
+Un país con una cobertura de vacunación contra la COVID-19 del **60%** observa un aumento del $R_t$ de **0,8** a **1,5** tras la
 aparición de una nueva variante.
 - ¿Cuáles son los dos factores que probablemente causaron este aumento?
         <br>
